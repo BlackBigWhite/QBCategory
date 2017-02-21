@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'QBCategory_Example' do
+  pod 'QBCategory', :path => '../'
+end

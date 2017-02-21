@@ -1,0 +1,16 @@
+PODS:
+  - QBCategory (1.0)
+
+DEPENDENCIES:
+  - QBCategory (from `../`)
+
+EXTERNAL SOURCES:
+  QBCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  QBCategory: 67559d23bc0ec622e9908d238940f47bfe8c5e68
+
+PODFILE CHECKSUM: b6924471adbc416eb0664624c416c32f0ca01bb0
+
+COCOAPODS: 1.2.0.beta.1
